@@ -1,0 +1,174 @@
+
+		*{
+			margin: 0%;
+			border: 1px solid red;
+		}
+		.navigation{
+			background-color: white;
+			display: flex;
+			justify-content: space-evenly;
+		}
+		
+		.navigation a{
+			color: black;
+			font-size: 25px;
+			text-decoration: none;
+
+			padding: 1%;
+		}
+		.navigation a:hover{
+			background-color: gray;
+		}
+		.navigation img{
+			vertical-align: middle;
+		}
+		.section{
+			padding:6% 0% 0% 7%
+	    }
+	    .signin{
+	    	border: 1px hidden;
+	    	background-color: skyblue;
+	    }
+	    .text{
+	    	display: flex;
+	    	justify-content: space-evenly;
+	    	font-size: 20px;
+	    	background-color: #f3f2f5;
+	    	padding: 0.5%;
+	    }
+	    .sec1{
+	    	padding: 2% 0% 0% 7%;
+	    }
+	    .sec1 h1{
+	    	font-size: 35px;
+	    	font-family: sans-serif;
+	    }
+	    .sec2{
+	    	font-family: poppins;
+	    	display: flex;
+	    	justify-content: space-between;
+	    	padding: 5% 0% 5% 8%;
+	    	font-size: 139%;
+	    }
+	    
+.		recharge{
+	    	font-size: 17px;
+	    	margin-bottom: 5%;
+	    }
+	    .Download-App{
+	    	background-color: black;
+	    	color: white;
+	    	width: 60%;
+	    	padding: 1%;
+	    	border-radius: 25px;
+	    	text-align: center;
+	    }
+	    .Download-App:hover{
+	    	background-color: white;
+	    	color: black;
+	    }
+	    .icon{
+	    	margin-left: 4%;
+	    }
+	    .sec3{
+	    	
+	    	padding: 3% 8% 3% 8%;
+	    	background-color: deepskyblue;
+	    }
+		.book{
+			display: flex;
+			justify-content: space-between;
+		}
+		.book img{
+			margin:5% 0%;
+		}
+		.book a{
+			color:white;
+			text-decoration:none
+		}
+		.sec4{
+			padding: 3% 8% 3% 8%;
+			background-color:#0f4a8a;
+		}
+		.sec5{
+			padding: 8%;
+			background-color:rgba(239,239,239,0.6);
+			font-family: Poppins;
+		}
+		
+		.Fast{
+	    	font-size: 17px;
+	    	margin-bottom: 5%;
+	    }
+	     .paytm{
+	    	font-size: 17px;
+	    	margin-bottom: 5%;
+		}
+	    .Download-App{
+	    	background-color: black;
+	    	color: white;
+	    	width: 60%;
+	    	padding: 1%;
+	    	border-radius: 25px;
+	    	text-align: center;
+	    }
+	    .Download-App:hover{
+	    	background-color: white;
+	    	color: black;
+	    }
+	    .Icon{
+	    	margin-left: 4%;
+	    }
+	    .sec6{
+	    	padding: 3% 8% 3% 8%;
+			background-color:white;
+			font-family: poppins;
+	    	display: flex;
+	    	justify-content: space-between;
+	    	padding: 5% 0% 5% 8%;
+	    	font-size: 139%;
+
+		}
+		.Fast{
+	    	font-size: 17px;
+	    	margin-bottom: 5%;
+	    .paytm{
+	    	font-size: 17px;
+	    	margin-bottom: 5%;
+	    }
+	    }
+	    .Download-App{
+	    	background-color: black;
+	    	color: white;
+	    	width: 60%;
+	    	padding: 1%;
+	    	border-radius: 25px;
+	    	text-align: center;
+	    }
+	    .Download-App:hover{
+	    	background-color: white;
+	    	color: black;
+	    }
+	    .Icon{
+	    	margin-left: 4%;
+	    }
+	    .sec7{
+	    	
+	    	justify-content: space-evenly;
+	    	padding: 12%;
+	    }
+	    .offers{
+	    	font-size: 25px;
+	    	margin-left: 1%;
+
+	    }
+	    .services{
+	    	font-size: 55px;
+	    	margin-top:10%;
+	    }
+	    .sincere{
+	    	font-size: 50px;
+	    	padding: 5%;
+	    	width: 1%;
+
+	    }
